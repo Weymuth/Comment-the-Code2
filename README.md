@@ -1,38 +1,15 @@
-# Hello Git! 👋
-
-Welcome to your first GitHub Classroom assignment!
-
-## What You Need To Do
-
-This assignment has **one goal**: practice the Git workflow.
-
-### Your Task
-
-1. **Open** this project in VS Code
-2. **Edit** the file `src/main.cpp`
-   - Find the section that says "YOUR NAME AND DATE GO HERE"
-   - Add your name and today's date
-3. **Save** the file (Ctrl+S on PC, Cmd+S on Mac)
-4. **Commit** your changes using VS Code's Source Control panel
-   - Write a commit message like "Added my name"
-   - Click the checkmark ✓
-5. **Push** your changes to GitHub
-   - Click "Sync Changes" or the cloud icon
-
-### How To Know You're Done
-
-Go to github.com and look at your repository. If you can see your name in the `src/main.cpp` file, you did it! 🎉
-
----
-
-## Stuck?
-
-- Can't find Source Control? Look for the icon that looks like a branch (Y shape) in VS Code's left sidebar
-- Don't see your changes? Make sure you saved the file first!
-- Push not working? VS Code might ask you to sign into GitHub - follow the prompts
-
-Ask your coach if you're still stuck!
-
----
-
-*This is a practice assignment for Lesson 0: Git Basics*
+ * Comment the Code!
+ * ===================================
+ * 
+ * Welcome to your second Git assignment!
+ * 
+ * Task: Below is a working program with NO comments. Your job is to add comments that explain what the code does and WHY each part exists.
+ * This is a real-world skill—you'll often inherit uncommented code from teammates or past projects.
+ *  Rules:
+•	Add a file header block comment at the top
+•	Add section headers (like // ===== HARDWARE OBJECTS =====)
+•	Add inline comments explaining non-obvious lines
+•	Add a block comment before each function explaining its purpose
+  * Save this file (Ctrl+S on PC, Cmd+S on Mac)
+  * Commit your changes using VS Code's Source Control panel
+  * 4. Push your changes to GitHub
